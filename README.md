@@ -1,0 +1,1 @@
+This my first repository. This project is built using some machine learning algorithm's such as 'linear regression' and model training which in results provides the current price of an used car on the basis of some of the features extracted within our model.
